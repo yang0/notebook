@@ -1,6 +1,9 @@
 # notebook
 在jupyter notebook下跑的一些学习性质的代码
 
+* 启动
+jupyter notebook
+
 
 **推荐引擎**
 推荐系统有哪些坑？https://www.zhihu.com/question/28247353
